@@ -2,7 +2,7 @@ const FastSpeedtest = require("fast-speedtest-api");
 
 // Replace "your-app-token" with your actual API token
 const speedtest = new FastSpeedtest({
-    token: "your_token_here",
+    token: "your-app-token",
     verbose: false,
     timeout: 10000,
     https: true,

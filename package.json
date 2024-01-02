@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "fast-speedtest-api": "^0.3.2"
+  },
+  "scripts": {
+    "start": "node speed.js"
   }
 }
